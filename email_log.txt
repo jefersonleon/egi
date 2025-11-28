@@ -1,0 +1,3 @@
+[2025-11-28 20:46:36] Recuperação solicitada para jefersonleonblue@gmail.com. Link: http://localhost/egi/index.php?page=reset_password&token=d2faa1112e87e113bbdef953ec135d44
+[2025-11-28 20:46:55] Recuperação solicitada para jefersonleonblue@gmail.com. Link: http://localhost/egi/index.php?page=reset_password&token=67002fabe11393187a9e3533e3cbd25f
+[2025-11-28 20:54:12] (Falha no envio de e-mail real - SMTP não configurado) Recuperação para jefersonleonblue@gmail.com. Link: http://localhost/egi/index.php?page=reset_password&token=a74de26fcdbb61731163a2badbd392e7
